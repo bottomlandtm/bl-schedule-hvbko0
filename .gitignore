@@ -1,0 +1,7 @@
+*
+!index.html
+!.nojekyll
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
