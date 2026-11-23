@@ -1,0 +1,2347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bottomland Master Calendar//Mgmt Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bottomland — Mgmt
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250313-legacy-hall-2025-03-13.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+SUMMARY:Bottomland — Legacy Hall
+LOCATION:Legacy Hall\, Plano\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250315-the-19th-hole-at-putters-and-2025-03-15.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:Bottomland — The 19th Hole at Putters and Gutters
+LOCATION:The 19th Hole at Putters and Gutters\, Marble Falls\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250328-banita-creek-hall-2025-03-28.bottomland.mgmt.calenda
+ r
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:Bottomland — Banita Creek Hall
+LOCATION:Banita Creek Hall\, Nacogdoches\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250402-city-limits-2025-04-02.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250402
+DTEND;VALUE=DATE:20250403
+SUMMARY:Bottomland — City Limits
+LOCATION:City Limits\, San Angelo\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250403-cook-s-garage-indoors-2025-04-03.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250404
+SUMMARY:Bottomland — Cook's Garage – Indoors
+LOCATION:Cook's Garage – Indoors\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250411-the-tap-2025-04-11.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:Bottomland — The Tap
+LOCATION:The Tap\, College Station\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250412-floores-country-store-indoor-2025-04-12.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Bottomland — Floores Country Store – Indoor
+LOCATION:Floores Country Store – Indoor\, Helotes\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250419-high-horse-saloon-2025-04-19.bottomland.mgmt.calenda
+ r
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Bottomland — High Horse Saloon
+LOCATION:High Horse Saloon\, Texas City\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250423-larry-joe-taylor-s-texas-mus-2025-04-23.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250423
+DTEND;VALUE=DATE:20250424
+SUMMARY:Bottomland — Larry Joe Taylor's Texas Music Festival
+LOCATION:Larry Joe Taylor's Texas Music Festival\, Stephenville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250424-iron-horse-pub-2025-04-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250425
+SUMMARY:Bottomland — Iron Horse Pub
+LOCATION:Iron Horse Pub\, Wichita Falls\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250425-hochatown-saloon-2025-04-25.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:Bottomland — Hochatown Saloon
+LOCATION:Hochatown Saloon\, Broken Bow\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250426-hunt-county-fair-2025-04-26.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Bottomland — Hunt County Fair
+LOCATION:Hunt County Fair\, Greenville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250502-the-rusty-horseshoe-2025-05-02.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:Bottomland — The Rusty Horseshoe
+LOCATION:The Rusty Horseshoe\, Spring\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250503-chandelier-grove-2025-05-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:Bottomland — Chandelier Grove
+LOCATION:Chandelier Grove\, Tomball\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250509-the-blue-light-2025-05-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250509T054500
+DTEND;TZID=America/Chicago:20250510T003000
+SUMMARY:Bottomland — The Blue Light (90 min)
+LOCATION:The Blue Light\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250515-gruene-hall-2025-05-15.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250515T100000
+DTEND;TZID=America/Chicago:20250515T203000
+SUMMARY:Bottomland — Gruene Hall
+LOCATION:Gruene Hall\, New Braunfels\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250516-smbg-corsicana-billy-s-back--2025-05-16.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Bottomland — SMBG Corsicana/Billy's Back Porch
+LOCATION:SMBG Corsicana/Billy's Back Porch\, Corsicana\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250517-culpepper-cattle-co-2025-05-17.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250517T170000
+DTEND;TZID=America/Chicago:20250517T220000
+SUMMARY:Bottomland — Culpepper Cattle Co.
+LOCATION:Culpepper Cattle Co.\, Rockwall\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250523-mo-s-place-2025-05-23.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250523T133000
+DTEND;TZID=America/Chicago:20250523T223000
+SUMMARY:Bottomland — Mo's Place
+LOCATION:Mo's Place\, Katy\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250524-buck-s-backyard-2025-05-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250524T110000
+DTEND;TZID=America/Chicago:20250524T210000
+SUMMARY:Bottomland — Buck's Backyard
+LOCATION:Buck's Backyard\, Buda\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250525-11th-st-cowboy-bar-2025-05-25.bottomland.mgmt.calend
+ ar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250525T180000
+DTEND;TZID=America/Chicago:20250525T210000
+SUMMARY:Bottomland — 11th St. Cowboy Bar
+LOCATION:11th St. Cowboy Bar\, Bandera\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250530-the-heights-theater-2025-05-30.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250530T100000
+DTEND;TZID=America/Chicago:20250530T223000
+SUMMARY:Bottomland — The Heights Theater
+LOCATION:The Heights Theater\, Houston\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250531-camp-margaritaville-rv-resor-2025-05-31.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250531T031500
+DTEND;TZID=America/Chicago:20250531T201500
+SUMMARY:Bottomland — Camp Margaritaville RV Resort Crystal Beach
+LOCATION:Camp Margaritaville RV Resort Crystal Beach\, Crystal Beach\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250604-cma-music-festival-2025-06-04.bottomland.mgmt.calend
+ ar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250604T153000
+DTEND;TZID=America/Chicago:20250604T200000
+SUMMARY:Bottomland — CMA Music Festival
+LOCATION:CMA Music Festival\, Nashville\, TN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250605-friends-in-low-places-2025-06-05.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250605T120000
+DTEND;TZID=America/Chicago:20250605T160000
+SUMMARY:Bottomland — Friends In Low Places
+LOCATION:Friends In Low Places\, Nashville\, TN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250607-billy-bob-s-texas-2025-06-07.bottomland.mgmt.calenda
+ r
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250607T080000
+DTEND;TZID=America/Chicago:20250607T234500
+SUMMARY:Bottomland — Billy Bob's Texas
+LOCATION:Billy Bob's Texas\, Fort Worth\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250612-brewster-street-ice-house-2025-06-12.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250612T093000
+DTEND;TZID=America/Chicago:20250612T230000
+SUMMARY:Bottomland — Brewster Street Ice House
+LOCATION:Brewster Street Ice House\, Corpus Christi\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250613-antone-s-nightclub-2025-06-13.bottomland.mgmt.calend
+ ar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250613T150000
+DTEND;TZID=America/Chicago:20250613T223000
+SUMMARY:Bottomland — Antone's Nightclub
+LOCATION:Antone's Nightclub\, Austin\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250614-schoepf-s-old-time-pit-bbq-2025-06-14.bottomland.mgm
+ t.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250614T150000
+DTEND;TZID=America/Chicago:20250614T220000
+SUMMARY:Bottomland — Schoepf's Old Time Pit BBQ
+LOCATION:Schoepf's Old Time Pit BBQ\, Belton\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250620-the-lumberyard-2025-06-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250620T100000
+DTEND;TZID=America/Chicago:20250620T220000
+SUMMARY:Bottomland — The Lumberyard
+LOCATION:The Lumberyard\, Canyon\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250621-beer-city-music-hall-2025-06-21.bottomland.mgmt.cale
+ ndar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250621T100000
+DTEND;TZID=America/Chicago:20250622T004500
+SUMMARY:Bottomland — Beer City Music Hall
+LOCATION:Beer City Music Hall\, Oklahoma City\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250703-lafreniere-park-2025-07-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250703T070000
+DTEND;TZID=America/Chicago:20250703T210000
+SUMMARY:Bottomland — Lafreniere Park
+LOCATION:Lafreniere Park\, Metairie\, LA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250710-the-revolution-music-room-2025-07-10.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250710T133000
+DTEND;TZID=America/Chicago:20250710T233000
+SUMMARY:Bottomland — The Revolution Music Room
+LOCATION:The Revolution Music Room\, Little Rock\, AR
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250711-the-basement-east-2025-07-11.bottomland.mgmt.calenda
+ r
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250711T143000
+DTEND;TZID=America/Chicago:20250712T000000
+SUMMARY:Bottomland — The Basement East
+LOCATION:The Basement East\, Nashville\, TN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250712-outdoor-stage-at-standard-de-2025-07-12.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250712T150000
+DTEND;TZID=America/Chicago:20250712T230000
+SUMMARY:Bottomland — Outdoor Stage at Standard Deluxe Inc.
+LOCATION:Outdoor Stage at Standard Deluxe Inc.\, Waverly\, AL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250717-radio-room-greenville-2025-07-17.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250717T140000
+DTEND;TZID=America/Chicago:20250717T214500
+SUMMARY:Bottomland — Radio Room - Greenville
+LOCATION:Radio Room - Greenville\, Greenville\, SC
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250718-terminal-west-2025-07-18.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250718T133000
+DTEND;TZID=America/Chicago:20250718T213000
+SUMMARY:Bottomland — Terminal West
+LOCATION:Terminal West\, Atlanta\, GA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250725-2920-roadhouse-2025-07-25.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250725T140000
+DTEND;TZID=America/Chicago:20250725T230000
+SUMMARY:Bottomland — 2920 Roadhouse
+LOCATION:2920 Roadhouse\, Hockley\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250726-the-junction-bar-grill-2025-07-26.bottomland.mgmt.ca
+ lendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250726T140000
+DTEND;TZID=America/Chicago:20250726T233000
+SUMMARY:Bottomland — The Junction Bar & Grill
+LOCATION:The Junction Bar & Grill\, Crosby\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250731-power-light-district-2025-07-31.bottomland.mgmt.cale
+ ndar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250731T140000
+DTEND;TZID=America/Chicago:20250731T231500
+SUMMARY:Bottomland — Power & Light District
+LOCATION:Power & Light District\, Kansas City\, MO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250801-castle-ridge-2025-08-01.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250801T140000
+DTEND;TZID=America/Chicago:20250801T220000
+SUMMARY:Bottomland — Castle Ridge
+LOCATION:Castle Ridge\, Centralia\, IL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250802-first-financial-music-hall-2025-08-02.bottomland.mgm
+ t.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250802T160000
+DTEND;TZID=America/Chicago:20250802T220000
+SUMMARY:Bottomland — First Financial Music Hall
+LOCATION:First Financial Music Hall\, El Dorado\, AR
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250807-the-amphitheater-at-canyons--2025-08-07.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250807T153000
+DTEND;TZID=America/Chicago:20250807T233000
+SUMMARY:Bottomland — The Amphitheater at Canyons Village
+LOCATION:The Amphitheater at Canyons Village\, Park City\, UT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250808-cowboy-saloon-2025-08-08.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250808T170000
+DTEND;TZID=America/Chicago:20250808T233000
+SUMMARY:Bottomland — Cowboy Saloon
+LOCATION:Cowboy Saloon\, Laramie\, WY
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250809-pinnacle-bank-arena-2025-08-09.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250809T080000
+DTEND;TZID=America/Chicago:20250810T003000
+SUMMARY:Bottomland — Pinnacle Bank Arena
+LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250816-white-wings-event-venue-2025-08-16.bottomland.mgmt.c
+ alendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250816T063000
+DTEND;TZID=America/Chicago:20250816T220000
+SUMMARY:Bottomland — White Wings Event Venue
+LOCATION:White Wings Event Venue\, Snyder\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250821-the-blue-light-2025-08-21.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250821T063000
+DTEND;TZID=America/Chicago:20250822T000000
+SUMMARY:Bottomland — The Blue Light
+LOCATION:The Blue Light\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250822-blaine-s-pub-2025-08-22.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250822T160000
+DTEND;TZID=America/Chicago:20250822T183000
+SUMMARY:Bottomland — Blaine's Pub
+LOCATION:Blaine's Pub\, San Angelo\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250823-claremore-expo-center-2025-08-23.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250823T143000
+DTEND;TZID=America/Chicago:20250823T213000
+SUMMARY:Bottomland — Claremore Expo Center
+LOCATION:Claremore Expo Center\, Claremore\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250829-majestic-2025-08-29.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250829T140000
+DTEND;TZID=America/Chicago:20250829T233000
+SUMMARY:Bottomland — Majestic
+LOCATION:Majestic\, Fort Smith\, AR
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250830-thunder-ridge-nature-arena-2025-08-30.bottomland.mgm
+ t.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250830T070000
+DTEND;TZID=America/Chicago:20250830T230000
+SUMMARY:Bottomland — Thunder Ridge Nature Arena
+LOCATION:Thunder Ridge Nature Arena\, Ridgedale\, MO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250903-soundwell-2025-09-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250903T150000
+DTEND;TZID=America/Chicago:20250903T233000
+SUMMARY:Bottomland — Soundwell
+LOCATION:Soundwell\, Salt Lake City\, UT
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250905-knitting-factory-boise-2025-09-05.bottomland.mgmt.ca
+ lendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250905T130000
+DTEND;TZID=America/Chicago:20250906T000000
+SUMMARY:Bottomland — Knitting Factory Boise
+LOCATION:Knitting Factory Boise\, Boise\, ID
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250906-the-valley-music-festival-2025-09-06.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250906T080000
+DTEND;TZID=America/Chicago:20250906T190000
+SUMMARY:Bottomland — The Valley Music Festival
+LOCATION:The Valley Music Festival\, Sun Valley\, ID
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250912-mlk-festival-grounds-2025-09-12.bottomland.mgmt.cale
+ ndar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250912T110000
+DTEND;TZID=America/Chicago:20250912T233000
+SUMMARY:Bottomland — MLK Festival Grounds
+LOCATION:MLK Festival Grounds\, Temple\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250913-cheatham-street-warehouse-2025-09-13.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250913T153000
+DTEND;TZID=America/Chicago:20250914T003000
+SUMMARY:Bottomland — Cheatham Street Warehouse
+LOCATION:Cheatham Street Warehouse\, San Marcos\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250919-501-ranch-2025-09-19.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250919T053000
+DTEND;TZID=America/Chicago:20250919T220000
+SUMMARY:Bottomland — 501 Ranch
+LOCATION:501 Ranch\, Uvalde\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250920-floores-country-store-outdoo-2025-09-20.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250920T110000
+DTEND;TZID=America/Chicago:20250921T000000
+SUMMARY:Bottomland — Floores Country Store – Outdoor
+LOCATION:Floores Country Store – Outdoor\, Helotes\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250926-hearne-municipal-airport-2025-09-26.bottomland.mgmt.
+ calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250926T100000
+DTEND;TZID=America/Chicago:20250926T221500
+SUMMARY:Bottomland — Hearne Municipal Airport
+LOCATION:Hearne Municipal Airport\, Hearne\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20250927-lewisville-western-days-2025-09-27.bottomland.mgmt.c
+ alendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20250927T100000
+DTEND;TZID=America/Chicago:20250927T203000
+SUMMARY:Bottomland — Lewisville Western Days
+LOCATION:Lewisville Western Days\, Lewisville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251004-feels-like-home-festival-bro-2025-10-04.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251004T070000
+DTEND;TZID=America/Chicago:20251004T230000
+SUMMARY:Bottomland — Feels Like Home Festival (Brownwood Event Center)
+LOCATION:Feels Like Home Festival (Brownwood Event Center)\, Brownwood\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251009-the-haute-spot-2025-10-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251009T100000
+DTEND;TZID=America/Chicago:20251009T230000
+SUMMARY:Bottomland — The Haute Spot
+LOCATION:The Haute Spot\, Cedar Park\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251010-the-jolly-fox-2025-10-10.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251010T130000
+DTEND;TZID=America/Chicago:20251011T020000
+SUMMARY:Bottomland — The Jolly Fox
+LOCATION:The Jolly Fox\, Huntsville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251011-trinity-valley-exposition-2025-10-11.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251011T140000
+DTEND;TZID=America/Chicago:20251012T000000
+SUMMARY:Bottomland — Trinity Valley Exposition
+LOCATION:Trinity Valley Exposition\, Liberty\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251017-mo-s-place-2025-10-17.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251017T100000
+DTEND;TZID=America/Chicago:20251018T010000
+SUMMARY:Bottomland — Mo's Place
+LOCATION:Mo's Place\, Katy\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251018-the-backyard-bar-stage-and-g-2025-10-18.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251018T100000
+DTEND;TZID=America/Chicago:20251018T230000
+SUMMARY:Bottomland — The Backyard Bar Stage and Grill
+LOCATION:The Backyard Bar Stage and Grill\, Waco\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251023-the-rustic-2025-10-23.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251023T103000
+DTEND;TZID=America/Chicago:20251023T230000
+SUMMARY:Bottomland — The Rustic
+LOCATION:The Rustic\, Dallas\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251024-bryan-tx-songwriter-fest-2025-10-24.bottomland.mgmt.
+ calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251024T101500
+DTEND;TZID=America/Chicago:20251025T003000
+SUMMARY:Bottomland — Bryan TX Songwriter Fest
+LOCATION:Bryan TX Songwriter Fest\, Bryan\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251025-shiner-brewery-2025-10-25.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251025T093000
+DTEND;TZID=America/Chicago:20251025T210000
+SUMMARY:Bottomland — Shiner Brewery
+LOCATION:Shiner Brewery\, Shiner\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251107-texan-theatre-2025-11-07.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251107T123000
+DTEND;TZID=America/Chicago:20251108T003000
+SUMMARY:Bottomland — Texan Theatre
+LOCATION:Texan Theatre\, Cleveland\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251108-prairie-street-live-2025-11-08.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251108T073000
+DTEND;TZID=America/Chicago:20251108T223000
+SUMMARY:Bottomland — Prairie Street Live
+LOCATION:Prairie Street Live\, Fayetteville\, AR
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251114-blackhawk-creek-grill-2025-11-14.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251114T100000
+DTEND;TZID=America/Chicago:20251114T220000
+SUMMARY:Bottomland — BlackHawk Creek Grill
+LOCATION:BlackHawk Creek Grill\, Whitehouse\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251115-troubadour-festival-old-celi-2025-11-15.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251115T080000
+DTEND;TZID=America/Chicago:20251115T151500
+SUMMARY:Bottomland — Troubadour Festival (Old Celina Park)
+LOCATION:Troubadour Festival (Old Celina Park)\, Celina\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251120-rick-s-cafe-2025-11-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251120T110000
+DTEND;TZID=America/Chicago:20251121T033000
+SUMMARY:Bottomland — Rick's Cafe
+LOCATION:Rick's Cafe\, Starkville\, MS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251121-georgia-theatre-2025-11-21.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251121T100000
+DTEND;TZID=America/Chicago:20251122T000000
+SUMMARY:Bottomland — Georgia Theatre
+LOCATION:Georgia Theatre\, Athens\, GA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251122-capitol-theatre-macon-2025-11-22.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251122T100000
+DTEND;TZID=America/Chicago:20251123T000000
+SUMMARY:Bottomland — Capitol Theatre Macon
+LOCATION:Capitol Theatre Macon\, Macon\, GA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251129-draudt-residence-2025-11-29.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Bottomland — Draudt Residence
+LOCATION:Draudt Residence\, Spring\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251203-main-street-crossing-2025-12-03.bottomland.mgmt.cale
+ ndar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251203T154500
+DTEND;TZID=America/Chicago:20251203T194000
+SUMMARY:Bottomland — Main Street Crossing
+LOCATION:Main Street Crossing\, Tomball\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251204-belle-oaks-2025-12-04.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251204T130000
+DTEND;TZID=America/Chicago:20251205T003000
+SUMMARY:Bottomland — Belle Oaks
+LOCATION:Belle Oaks\, Beaumont\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251206-gilley-s-at-choctaw-casino-2025-12-06.bottomland.mgm
+ t.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251206T070000
+DTEND;TZID=America/Chicago:20251207T013000
+SUMMARY:Bottomland — Gilley's at Choctaw Casino
+LOCATION:Gilley's at Choctaw Casino\, Durant\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251209-the-tap-2025-12-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251209T140000
+DTEND;TZID=America/Chicago:20251210T001500
+SUMMARY:Bottomland — The Tap
+LOCATION:The Tap\, College Station\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251213-brewster-street-ice-house-2025-12-13.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251213T093000
+DTEND;TZID=America/Chicago:20251214T000000
+SUMMARY:Bottomland — Brewster Street Ice House
+LOCATION:Brewster Street Ice House\, Corpus Christi\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251216-dosey-doe-the-big-barn-2025-12-16.bottomland.mgmt.ca
+ lendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251216T160000
+DTEND;TZID=America/Chicago:20251217T003000
+SUMMARY:Bottomland — Dosey Doe – The Big Barn
+LOCATION:Dosey Doe – The Big Barn\, Spring\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251219-silver-saloon-2025-12-19.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251219T083000
+DTEND;TZID=America/Chicago:20251220T003000
+SUMMARY:Bottomland — Silver Saloon
+LOCATION:Silver Saloon\, Terrell\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251220-floores-country-store-indoor-2025-12-20.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251220T083000
+DTEND;TZID=America/Chicago:20251221T013000
+SUMMARY:Bottomland — Floores Country Store – Indoor
+LOCATION:Floores Country Store – Indoor\, Helotes\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251226-rowdy-s-dancehall-spring-2025-12-26.bottomland.mgmt.
+ calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251226T120000
+DTEND;TZID=America/Chicago:20251227T040000
+SUMMARY:Bottomland — Rowdy's Dancehall Spring
+LOCATION:Rowdy's Dancehall Spring\, Spring\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20251231-the-cowtown-coliseum-arena-2025-12-31.bottomland.mgm
+ t.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20251231T080000
+DTEND;TZID=America/Chicago:20260101T003000
+SUMMARY:Bottomland — The Cowtown Coliseum Arena
+LOCATION:The Cowtown Coliseum Arena\, Fort Worth\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260106-steamboat-grand-hotel-2026-01-06.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260106T140000
+DTEND;TZID=America/Chicago:20260106T195500
+SUMMARY:Bottomland — Steamboat Grand Hotel
+LOCATION:Steamboat Grand Hotel\, Steamboat Springs\, CO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260107-steamboat-grand-hotel-2026-01-07.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260107T182000
+DTEND;TZID=America/Chicago:20260107T200000
+SUMMARY:Bottomland — Steamboat Grand Hotel
+LOCATION:Steamboat Grand Hotel\, Steamboat Springs\, CO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260108-steamboat-grand-hotel-2026-01-08.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260108T113000
+DTEND;TZID=America/Chicago:20260109T003000
+SUMMARY:Bottomland — Steamboat Grand Hotel
+LOCATION:Steamboat Grand Hotel\, Steamboat Springs\, CO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260109-larimer-lounge-2026-01-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260109T150000
+DTEND;TZID=America/Chicago:20260109T214500
+SUMMARY:Bottomland — Larimer Lounge
+LOCATION:Larimer Lounge\, Denver\, CO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260122-magnolia-motor-lounge-2026-01-22.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260122T093000
+DTEND;TZID=America/Chicago:20260123T020000
+SUMMARY:Bottomland — Magnolia Motor Lounge
+LOCATION:Magnolia Motor Lounge\, Fort Worth\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260123-cheatham-street-warehouse-2026-01-23.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260123T103000
+DTEND;TZID=America/Chicago:20260124T000000
+SUMMARY:Bottomland — Cheatham Street Warehouse
+LOCATION:Cheatham Street Warehouse\, San Marcos\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260124-blue-light-2026-01-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260124T083000
+DTEND;TZID=America/Chicago:20260125T003000
+SUMMARY:Bottomland — Blue Light
+LOCATION:Blue Light\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260130-the-jolly-fox-2026-01-30.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260130T120000
+DTEND;TZID=America/Chicago:20260131T030000
+SUMMARY:Bottomland — The Jolly Fox
+LOCATION:The Jolly Fox\, Huntsville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260131-wormy-dog-saloon-2026-01-31.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260131T140000
+DTEND;TZID=America/Chicago:20260201T003000
+SUMMARY:Bottomland — Wormy Dog Saloon
+LOCATION:Wormy Dog Saloon\, Stillwater\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260212-twisted-j-live-2026-02-12.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260212T080000
+DTEND;TZID=America/Chicago:20260213T021500
+SUMMARY:Bottomland — Twisted J Live
+LOCATION:Twisted J Live\, Stephenville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260213-margaritaville-lake-resort-2026-02-13.bottomland.mgm
+ t.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260213T073000
+DTEND;TZID=America/Chicago:20260213T220000
+SUMMARY:Bottomland — Margaritaville Lake Resort
+LOCATION:Margaritaville Lake Resort\, Montgomery\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260219-magnolia-motor-lounge-2026-02-19.bottomland.mgmt.cal
+ endar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260219T120000
+DTEND;TZID=America/Chicago:20260220T020000
+SUMMARY:Bottomland — Magnolia Motor Lounge
+LOCATION:Magnolia Motor Lounge\, Fort Worth\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260220-cheatham-street-warehouse-2026-02-20.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260220T103000
+DTEND;TZID=America/Chicago:20260221T000000
+SUMMARY:Bottomland — Cheatham Street Warehouse
+LOCATION:Cheatham Street Warehouse\, San Marcos\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260221-the-blue-light-2026-02-21.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260221T093000
+DTEND;TZID=America/Chicago:20260222T003000
+SUMMARY:Bottomland — The Blue Light
+LOCATION:The Blue Light\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260228-banita-creek-hall-2026-02-28.bottomland.mgmt.calenda
+ r
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260228T140000
+DTEND;TZID=America/Chicago:20260301T000000
+SUMMARY:Bottomland — Banita Creek Hall
+LOCATION:Banita Creek Hall\, Nacogdoches\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260307-texas-birthday-bash-2026-03-07.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260307T121500
+DTEND;TZID=America/Chicago:20260307T220000
+SUMMARY:Bottomland — Texas Birthday Bash
+LOCATION:Texas Birthday Bash\, Navasota\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260320-hideout-houston-rodeohouston-2026-03-20.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260320T130000
+DTEND;TZID=America/Chicago:20260321T030000
+SUMMARY:Bottomland — Hideout - Houston (RodeoHouston)
+LOCATION:Hideout - Houston (RodeoHouston)\, Houston\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260327-cheatham-street-warehouse-2026-03-27.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260327T103000
+DTEND;TZID=America/Chicago:20260328T000000
+SUMMARY:Bottomland — Cheatham Street Warehouse
+LOCATION:Cheatham Street Warehouse\, San Marcos\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260328-the-blue-light-2026-03-28.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260328T094500
+DTEND;TZID=America/Chicago:20260328T233000
+SUMMARY:Bottomland — The Blue Light
+LOCATION:The Blue Light\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260409-san-angelo-rodeo-2026-04-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260409T070000
+DTEND;TZID=America/Chicago:20260410T000000
+SUMMARY:Bottomland — San Angelo Rodeo
+LOCATION:San Angelo Rodeo\, San Angelo\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260410-round-rock-amp-2026-04-10.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260410T090000
+DTEND;TZID=America/Chicago:20260411T003600
+SUMMARY:Bottomland — Round Rock Amp
+LOCATION:Round Rock Amp\, Round Rock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260411-waller-county-fairgrounds-2026-04-11.bottomland.mgmt
+ .calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260411T100000
+DTEND;TZID=America/Chicago:20260412T030000
+SUMMARY:Bottomland — Waller County Fairgrounds
+LOCATION:Waller County Fairgrounds\, Hempstead\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260412-cattle-country-festival-2026-04-12.bottomland.mgmt.c
+ alendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260412T073000
+DTEND;TZID=America/Chicago:20260413T000000
+SUMMARY:Bottomland — Cattle Country Festival
+LOCATION:Cattle Country Festival\, Gonzales\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260416-intrigue-nightclub-2026-04-16.bottomland.mgmt.calend
+ ar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260416T155000
+DTEND;TZID=America/Chicago:20260417T003000
+SUMMARY:Bottomland — Intrigue Nightclub
+LOCATION:Intrigue Nightclub\, Las Vegas\, NV
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260423-larry-joe-taylor-s-texas-mus-2026-04-23.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260423T090000
+DTEND;TZID=America/Chicago:20260423T234000
+SUMMARY:Bottomland — Larry Joe Taylor's Texas Music Festival
+LOCATION:Larry Joe Taylor's Texas Music Festival\, Stephenville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260424-hochatown-saloon-2026-04-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260424T120000
+DTEND;TZID=America/Chicago:20260425T003000
+SUMMARY:Bottomland — Hochatown Saloon
+LOCATION:Hochatown Saloon\, Broken Bow\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260425-the-backyard-at-the-lumberya-2026-04-25.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260425T060000
+DTEND;TZID=America/Chicago:20260426T171000
+SUMMARY:Bottomland — The Backyard at The Lumberyard
+LOCATION:The Backyard at The Lumberyard\, Canyon\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260428-the-tap-2026-04-28.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260428T120000
+DTEND;TZID=America/Chicago:20260429T013000
+SUMMARY:Bottomland — The Tap
+LOCATION:The Tap\, College Station\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260430-calf-fry-2026-04-30.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260430T120000
+DTEND;TZID=America/Chicago:20260501T000000
+SUMMARY:Bottomland — Calf Fry
+LOCATION:Calf Fry\, Stillwater\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260501-the-backyard-bar-stage-and-g-2026-05-01.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260501T140000
+DTEND;TZID=America/Chicago:20260502T000000
+SUMMARY:Bottomland — The Backyard Bar Stage and Grill
+LOCATION:The Backyard Bar Stage and Grill\, Waco\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260506-dosey-doe-2026-05-06.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260506T160000
+DTEND;TZID=America/Chicago:20260506T213000
+SUMMARY:Bottomland — Dosey Doe
+LOCATION:Dosey Doe\, The Woodlands\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260509-red-dirt-bbq-music-festival-2026-05-09.bottomland.mg
+ mt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260509T120000
+DTEND;TZID=America/Chicago:20260509T223500
+SUMMARY:Bottomland — Red Dirt BBQ & Music Festival
+LOCATION:Red Dirt BBQ & Music Festival\, Tyler\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260514-lost-lake-lounge-2026-05-14.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260514T120000
+DTEND;TZID=America/Chicago:20260515T030000
+SUMMARY:Bottomland — Lost Lake Lounge
+LOCATION:Lost Lake Lounge\, Denver\, CO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260515-the-cowboy-saloon-dance-hall-2026-05-15.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260515T150000
+DTEND;TZID=America/Chicago:20260516T033000
+SUMMARY:Bottomland — The Cowboy Saloon & Dance Hall
+LOCATION:The Cowboy Saloon & Dance Hall\, Laramie\, WY
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260605-crosby-fair-rodeo-crosby-fai-2026-06-05.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260605T101500
+DTEND;TZID=America/Chicago:20260606T013000
+SUMMARY:Bottomland — Crosby Fair & Rodeo - Crosby Fairgrounds
+LOCATION:Crosby Fair & Rodeo - Crosby Fairgrounds\, Crosby\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260613-bradley-county-pink-tomato-f-2026-06-13.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260613T110000
+DTEND;TZID=America/Chicago:20260613T223000
+SUMMARY:Bottomland — Bradley County Pink Tomato Festival – Court Square
+LOCATION:Bradley County Pink Tomato Festival – Court Square\, Warren\, AR
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260618-billy-bob-s-texas-main-stage-2026-06-18.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260618T080000
+DTEND;TZID=America/Chicago:20260619T015900
+SUMMARY:Bottomland — Billy Bob's Texas - Main Stage
+LOCATION:Billy Bob's Texas - Main Stage\, Fort Worth\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260620-mercury-lounge-2026-06-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260620T093000
+DTEND;TZID=America/Chicago:20260620T223000
+SUMMARY:Bottomland — Mercury Lounge
+LOCATION:Mercury Lounge\, Tulsa\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260625-centennial-terrace-2026-06-25.bottomland.mgmt.calend
+ ar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260625T130000
+DTEND;TZID=America/Chicago:20260625T220000
+SUMMARY:Bottomland — Centennial Terrace
+LOCATION:Centennial Terrace\, Sylvania\, OH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260626-capital-region-mu-health-car-2026-06-26.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260626T090000
+DTEND;TZID=America/Chicago:20260626T200000
+SUMMARY:Bottomland — Capital Region MU Health Care Amphitheater
+LOCATION:Capital Region MU Health Care Amphitheater\, Jefferson City\, MO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260703-luckenbach-texas-2026-07-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260703T090000
+DTEND;TZID=America/Chicago:20260703T230000
+SUMMARY:Bottomland — Luckenbach Texas (40 min)
+LOCATION:Luckenbach Texas\, Fredericksburg\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260704-house-pasture-cattle-company-2026-07-04.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260704T010000
+DTEND;TZID=America/Chicago:20260704T235900
+SUMMARY:Bottomland — House Pasture Cattle Company
+LOCATION:House Pasture Cattle Company\, Concan\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260716-bill-aylor-sr-memorial-river-2026-07-16.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260716T060000
+DTEND;TZID=America/Chicago:20260716T223000
+SUMMARY:Bottomland — Bill Aylor Sr. Memorial Riverstage (45 min)
+LOCATION:Bill Aylor Sr. Memorial Riverstage\, San Angelo\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260717-whitewater-amphitheater-2026-07-17.bottomland.mgmt.c
+ alendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260717T080000
+DTEND;TZID=America/Chicago:20260718T060000
+SUMMARY:Bottomland — Whitewater Amphitheater (45 min)
+LOCATION:Whitewater Amphitheater\, New Braunfels\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260731-southern-junction-2026-07-31.bottomland.mgmt.calenda
+ r
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260731T094500
+DTEND;TZID=America/Chicago:20260801T031500
+SUMMARY:Bottomland — Southern Junction (90 min)
+LOCATION:Southern Junction\, Royse City\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260801-schulenburg-festival-2026-08-01.bottomland.mgmt.cale
+ ndar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260801T064500
+DTEND;TZID=America/Chicago:20260802T043000
+SUMMARY:Bottomland — Schulenburg Festival (90 min)
+LOCATION:Schulenburg Festival\, Schulenburg\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260813-the-backyard-at-the-lumberya-2026-08-13.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260813T075000
+DTEND;TZID=America/Chicago:20260813T220000
+SUMMARY:Bottomland — The Backyard at The Lumberyard (30 min)
+LOCATION:The Backyard at The Lumberyard\, Canyon\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260829-the-nite-lite-2026-08-29.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260829T064500
+DTEND;TZID=America/Chicago:20260830T044500
+SUMMARY:Bottomland — The Nite Lite (45 min)
+LOCATION:The Nite Lite\, Alva\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260904-farmjam-music-camping-festiv-2026-09-04.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260904T140000
+DTEND;TZID=America/Chicago:20260905T050000
+SUMMARY:Bottomland — FarmJam Music & Camping Festival (60 min)
+LOCATION:FarmJam Music & Camping Festival\, Colville\, WA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260912-north-texas-regional-airport-2026-09-12.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260912T083000
+DTEND;TZID=America/Chicago:20260913T034500
+SUMMARY:Bottomland — North Texas Regional Airport
+LOCATION:North Texas Regional Airport\, Denison\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260919-washington-county-fair-2026-09-19.bottomland.mgmt.ca
+ lendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260919T080000
+DTEND;TZID=America/Chicago:20260920T031500
+SUMMARY:Bottomland — Washington County Fair
+LOCATION:Washington County Fair\, Brenham\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260926-coupland-dance-hall-2026-09-26.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20260926T104500
+DTEND;TZID=America/Chicago:20260927T051500
+SUMMARY:Bottomland — Coupland Dance Hall (90 min)
+LOCATION:Coupland Dance Hall\, Coupland\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20260930-rodeo-dunes-2026-09-30.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Bottomland — Rodeo Dunes
+LOCATION:Rodeo Dunes\, Roggen\, CO
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261002-texas-rice-festival-2026-10-02.bottomland.mgmt.calen
+ dar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261002T130000
+DTEND;TZID=America/Chicago:20261003T010000
+SUMMARY:Bottomland — Texas Rice Festival (90 min)
+LOCATION:Texas Rice Festival\, Winnie\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261003-friendship-park-2026-10-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261003T061500
+DTEND;TZID=America/Chicago:20261004T053000
+SUMMARY:Bottomland — Friendship Park
+LOCATION:Friendship Park\, Burkburnett\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261009-the-hideout-at-the-silver-sa-2026-10-09.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261009T091500
+DTEND;TZID=America/Chicago:20261010T060000
+SUMMARY:Bottomland — The Hideout at the Silver Saloon
+LOCATION:The Hideout at the Silver Saloon\, Terrell\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261010-conroe-cajun-catfish-festiva-2026-10-10.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261010T171500
+DTEND;TZID=America/Chicago:20261010T213000
+SUMMARY:Bottomland — Conroe Cajun Catfish Festival (75 min)
+LOCATION:Conroe Cajun Catfish Festival\, Conroe\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261016-hochatown-saloon-2026-10-16.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261016T064500
+DTEND;TZID=America/Chicago:20261017T030000
+SUMMARY:Bottomland — Hochatown Saloon (90 min)
+LOCATION:Hochatown Saloon\, Broken Bow\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261017-northwestern-state-universit-2026-10-17.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261017T085000
+DTEND;TZID=America/Chicago:20261017T233000
+SUMMARY:Bottomland — Northwestern State University (60 min)
+LOCATION:Northwestern State University\, Natchitoches\, LA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261029-cannery-hall-the-mil-2026-10-29.bottomland.mgmt.cale
+ ndar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261029T143000
+DTEND;TZID=America/Chicago:20261030T020000
+SUMMARY:Bottomland — Cannery Hall (The Mil) (90 min)
+LOCATION:Cannery Hall (The Mil)\, Nashville\, TN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261030-singing-river-live-2026-10-30.bottomland.mgmt.calend
+ ar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261030T110000
+DTEND;TZID=America/Chicago:20261031T064500
+SUMMARY:Bottomland — Singing River Live (90 min)
+LOCATION:Singing River Live\, Florence\, AL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-p-20261031-mercer-university-black-fiel-2026-10-31.bottomland.m
+ gmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261031T074000
+DTEND;TZID=America/Chicago:20261031T160000
+SUMMARY:Bottomland — Mercer University - Black Field (60 min)
+LOCATION:Mercer University - Black Field\, Macon\, GA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-ruid-trav-2026-11-04.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261104T054500
+DTEND;TZID=America/Chicago:20261104T210000
+SUMMARY:Travel — BLHQ → Ruidoso
+LOCATION:BLHQ → Ruidoso\, Ruidoso\, NM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-ruid-2026-11-05.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261105T143500
+DTEND;TZID=America/Chicago:20261106T030000
+SUMMARY:Bottomland — Jack's Backstage (Patina Lounge) (90 min)
+LOCATION:Jack's Backstage (Patina Lounge)\, Ruidoso\, NM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-lbk-2026-11-06.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261106T074500
+DTEND;TZID=America/Chicago:20261107T014500
+SUMMARY:Bottomland — The Blue Light (90 min)
+LOCATION:The Blue Light\, Lubbock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-asu-2026-11-07.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261107T090000
+DTEND;TZID=America/Chicago:20261108T035800
+SUMMARY:Bottomland — Angelo State — Ram Jam (tailgate) (90 min)
+LOCATION:Angelo State — Ram Jam (tailgate)\, San Angelo\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-11-11-2026-11-11.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261111T100000
+DTEND;TZID=America/Chicago:20261111T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-palace-2026-11-13.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261113T130000
+DTEND;TZID=America/Chicago:20261114T013000
+SUMMARY:Bottomland — The Palace Theater (90 min)
+LOCATION:The Palace Theater\, Bryan\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-whouse-2026-11-14.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261114T084500
+DTEND;TZID=America/Chicago:20261115T021500
+SUMMARY:Bottomland — BlackHawk Creek Grill (90 min)
+LOCATION:BlackHawk Creek Grill\, Whitehouse\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-11-18-2026-11-18.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261118T100000
+DTEND;TZID=America/Chicago:20261118T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mid-2026-11-19.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261119T160000
+DTEND;TZID=America/Chicago:20261119T211500
+SUMMARY:CANCELLED: Bottomland — Jakes Clays (private event) (90 min)
+LOCATION:Jakes Clays (private event)\, Midland\, TX
+STATUS:CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-jfox-2026-11-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261120T131500
+DTEND;TZID=America/Chicago:20261121T000000
+SUMMARY:Bottomland — The Jolly Fox (90 min)
+LOCATION:The Jolly Fox\, Huntsville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-11-25-2026-11-25.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261125T100000
+DTEND;TZID=America/Chicago:20261125T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-12-02-2026-12-02.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261202T100000
+DTEND;TZID=America/Chicago:20261202T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-gruene-2026-12-04.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Bottomland — Gruene Hall — not confirmed
+LOCATION:Gruene Hall\, New Braunfels\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-12-09-2026-12-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261209T100000
+DTEND;TZID=America/Chicago:20261209T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-12-16-2026-12-16.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261216T100000
+DTEND;TZID=America/Chicago:20261216T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-rowdys-2026-12-18.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261218T140000
+DTEND;TZID=America/Chicago:20261219T000000
+SUMMARY:Bottomland — Rowdy's Dancehall (90 min)
+LOCATION:Rowdy's Dancehall\, Spring\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-chill-2026-12-19.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261219T193000
+DTEND;TZID=America/Chicago:20261219T223000
+SUMMARY:Bottomland — Chill Bar & Grill (90 min)
+LOCATION:Chill Bar & Grill\, Lewisville\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-12-23-2026-12-23.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261223T100000
+DTEND;TZID=America/Chicago:20261223T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2026-12-30-2026-12-30.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20261230T100000
+DTEND;TZID=America/Chicago:20261230T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-01-06-2027-01-06.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270106T100000
+DTEND;TZID=America/Chicago:20270106T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-01-13-2027-01-13.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270113T100000
+DTEND;TZID=America/Chicago:20270113T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-hoots-2027-01-15.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Bottomland — Hoot's Hall — not confirmed
+LOCATION:Hoot's Hall\, Burleson\, TX
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-gradys-2027-01-16.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Bottomland — Grady's 66 Pub — not confirmed
+LOCATION:Grady's 66 Pub\, Yukon\, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-01-20-2027-01-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270120T100000
+DTEND;TZID=America/Chicago:20270120T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-01-27-2027-01-27.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270127T100000
+DTEND;TZID=America/Chicago:20270127T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-rboot-2027-01-28.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270128T173000
+DTEND;TZID=America/Chicago:20270128T230000
+SUMMARY:Bottomland — Republic Boot Company (duo acoustic) (90 min) — no
+ t confirmed
+LOCATION:Republic Boot Company (duo acoustic)\, Houston\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-02-03-2027-02-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270203T100000
+DTEND;TZID=America/Chicago:20270203T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-greekbro-2027-02-06.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Bottomland — Greek Brothers Oyster Bar and Saloon — not confirm
+ ed
+LOCATION:Greek Brothers Oyster Bar and Saloon\, El Campo\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-02-10-2027-02-10.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270210T100000
+DTEND;TZID=America/Chicago:20270210T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-02-17-2027-02-17.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270217T100000
+DTEND;TZID=America/Chicago:20270217T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-02-24-2027-02-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270224T100000
+DTEND;TZID=America/Chicago:20270224T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-floores-2027-02-26.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270226T190000
+DTEND;TZID=America/Chicago:20270226T220000
+SUMMARY:Bottomland — Floore's Country Store – Indoor
+LOCATION:Floore's Country Store – Indoor\, Helotes\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-03-03-2027-03-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270303T100000
+DTEND;TZID=America/Chicago:20270303T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-03-10-2027-03-10.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270310T100000
+DTEND;TZID=America/Chicago:20270310T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-03-17-2027-03-17.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270317T100000
+DTEND;TZID=America/Chicago:20270317T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-madeley-2027-03-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270320T180000
+DTEND;TZID=America/Chicago:20270321T000000
+SUMMARY:Bottomland — The Table at Madeley
+LOCATION:The Table at Madeley\, Conroe\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-03-24-2027-03-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270324T100000
+DTEND;TZID=America/Chicago:20270324T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-03-31-2027-03-31.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270331T100000
+DTEND;TZID=America/Chicago:20270331T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-04-07-2027-04-07.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270407T100000
+DTEND;TZID=America/Chicago:20270407T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-04-14-2027-04-14.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270414T100000
+DTEND;TZID=America/Chicago:20270414T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-galvfair-2027-04-16.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270416T140000
+DTEND;TZID=America/Chicago:20270417T010000
+SUMMARY:Bottomland — Galveston County Fair & Rodeo (90 min)
+LOCATION:Galveston County Fair & Rodeo\, Hitchcock\, TX
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-04-21-2027-04-21.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270421T100000
+DTEND;TZID=America/Chicago:20270421T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-04-28-2027-04-28.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270428T100000
+DTEND;TZID=America/Chicago:20270428T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-05-05-2027-05-05.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270505T100000
+DTEND;TZID=America/Chicago:20270505T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-05-12-2027-05-12.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270512T100000
+DTEND;TZID=America/Chicago:20270512T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-05-19-2027-05-19.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270519T100000
+DTEND;TZID=America/Chicago:20270519T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-05-26-2027-05-26.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270526T100000
+DTEND;TZID=America/Chicago:20270526T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-06-02-2027-06-02.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270602T100000
+DTEND;TZID=America/Chicago:20270602T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-06-09-2027-06-09.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270609T100000
+DTEND;TZID=America/Chicago:20270609T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-06-16-2027-06-16.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270616T100000
+DTEND;TZID=America/Chicago:20270616T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-06-23-2027-06-23.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270623T100000
+DTEND;TZID=America/Chicago:20270623T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-06-30-2027-06-30.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270630T100000
+DTEND;TZID=America/Chicago:20270630T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-07-07-2027-07-07.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270707T100000
+DTEND;TZID=America/Chicago:20270707T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-07-14-2027-07-14.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270714T100000
+DTEND;TZID=America/Chicago:20270714T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-07-21-2027-07-21.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270721T100000
+DTEND;TZID=America/Chicago:20270721T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-07-28-2027-07-28.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270728T100000
+DTEND;TZID=America/Chicago:20270728T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-08-04-2027-08-04.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270804T100000
+DTEND;TZID=America/Chicago:20270804T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-08-11-2027-08-11.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270811T100000
+DTEND;TZID=America/Chicago:20270811T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-08-18-2027-08-18.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270818T100000
+DTEND;TZID=America/Chicago:20270818T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-08-25-2027-08-25.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270825T100000
+DTEND;TZID=America/Chicago:20270825T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-09-01-2027-09-01.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270901T100000
+DTEND;TZID=America/Chicago:20270901T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-09-08-2027-09-08.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270908T100000
+DTEND;TZID=America/Chicago:20270908T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-09-15-2027-09-15.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270915T100000
+DTEND;TZID=America/Chicago:20270915T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-09-22-2027-09-22.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270922T100000
+DTEND;TZID=America/Chicago:20270922T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-hasting-2027-09-25.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270925T130000
+DTEND;TZID=America/Chicago:20270925T210000
+SUMMARY:Bottomland — Hasting Farm Fest — Clark County Fairgrounds Pavil
+ ion — not confirmed
+LOCATION:Hasting Farm Fest — Clark County Fairgrounds Pavilion\, Springfi
+ eld\, OH
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-09-29-2027-09-29.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20270929T100000
+DTEND;TZID=America/Chicago:20270929T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-10-06-2027-10-06.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271006T100000
+DTEND;TZID=America/Chicago:20271006T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-10-13-2027-10-13.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271013T100000
+DTEND;TZID=America/Chicago:20271013T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-10-20-2027-10-20.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271020T100000
+DTEND;TZID=America/Chicago:20271020T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-10-27-2027-10-27.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271027T100000
+DTEND;TZID=America/Chicago:20271027T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-11-03-2027-11-03.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271103T100000
+DTEND;TZID=America/Chicago:20271103T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-11-10-2027-11-10.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271110T100000
+DTEND;TZID=America/Chicago:20271110T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-11-17-2027-11-17.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271117T100000
+DTEND;TZID=America/Chicago:20271117T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-11-24-2027-11-24.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271124T100000
+DTEND;TZID=America/Chicago:20271124T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-12-01-2027-12-01.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271201T100000
+DTEND;TZID=America/Chicago:20271201T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-12-08-2027-12-08.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271208T100000
+DTEND;TZID=America/Chicago:20271208T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-12-15-2027-12-15.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271215T100000
+DTEND;TZID=America/Chicago:20271215T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-12-22-2027-12-22.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271222T100000
+DTEND;TZID=America/Chicago:20271222T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bl-mgmt-mgmt-zoom-2027-12-29-2027-12-29.bottomland.mgmt.calendar
+DTSTAMP:20261123T122848
+DTSTART;TZID=America/Chicago:20271229T100000
+DTEND;TZID=America/Chicago:20271229T110000
+SUMMARY:Weekly management Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

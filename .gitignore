@@ -5,6 +5,9 @@
 !.github/
 !.github/workflows/
 !.github/workflows/pages.yml
+!cal/
+!cal/*/
+!cal/*/bottomland-mgmt.ics
 !justin/
 !justin/index.html
 !cannon/

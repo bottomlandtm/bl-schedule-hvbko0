@@ -31,6 +31,8 @@ jobs:
           test -f _site/.nojekyll
           test -f _site/index.html
           grep -qi staticrypt _site/index.html
+          ls _site/cal/*/bottomland-mgmt.ics >/dev/null
+          grep -q BEGIN:VCALENDAR _site/cal/*/bottomland-mgmt.ics
           for id in justin cannon mgmt; do
             test -f _site/$id/index.html
             ! grep -qi staticrypt _site/$id/index.html
